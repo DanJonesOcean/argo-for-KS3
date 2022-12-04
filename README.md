@@ -8,9 +8,9 @@ Argo website:
 https://argo.ucsd.edu/
 
 Starting with this dataset: 
-https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/EE3C40/WNKFBO&version=1.0
+https://dataverse.harvard.edu/api/access/datafile/:persistentId?persistentId=doi:10.7910/DVN/EE3C40/DQBDDA
 
 Extract small subset of about 500-600 profiles with the following properties:
-- 3 temperature measurements and 3 salinity measurements (i.e. surface, intermediate, deep)
-- Location label, four places at most (e.g. polar regions, subtropics, tropics, Medeterranean) 
-- CSV format, each row is a profile and each 
+- 1 temperature measurement1 and 3 salinity measurement (i.e. surface)
+- Location label, three regions (e.g. polar regions, subtropics, tropics) 
+- CSV format, each row is a set of measurements 
