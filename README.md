@@ -11,6 +11,6 @@ Starting with this dataset:
 https://dataverse.harvard.edu/api/access/datafile/:persistentId?persistentId=doi:10.7910/DVN/EE3C40/DQBDDA
 
 Extract small subset of about 500-600 profiles with the following properties:
-- 1 temperature measurement1 and 3 salinity measurement (i.e. surface)
+- 1 temperature measurement and 1 salinity measurement (i.e. surface)
 - Location label, three regions (e.g. polar regions, subtropics, tropics) 
 - CSV format, each row is a set of measurements 
